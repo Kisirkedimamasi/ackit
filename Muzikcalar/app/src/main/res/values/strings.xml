@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Muzikcalar</string>
+    <string name="sarki_adi">Şarkı Adı</string>
+    <string name="total">00:00</string>
+</resources>
